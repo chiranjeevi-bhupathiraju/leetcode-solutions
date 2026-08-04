@@ -2,13 +2,13 @@
  * @param {number[]} nums
  * @return {number}
  */
-var firstMissingPositive = function(nums) {
-    let newA = new Set(nums)
+function firstMissingPositive(nums){
+    let set = new Set(nums)
 
-
-    
-    for (i=1;;i++){
-        if(!newA.has(i)){
+    for (let i = 1; ; i++) {
+        if (set.has(i)) {
+            //
+        } else {
             return i
         }
     }
