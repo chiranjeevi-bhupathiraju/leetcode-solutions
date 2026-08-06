@@ -8,10 +8,6 @@ var findClosest = function(x, y, z) {
     let xDistance = Math.abs(x-z)
     let yDistance = Math.abs(y-z)
 
-    if(xDistance === yDistance){
-        return 0
-    }
-
      if(xDistance < yDistance){
         return 1
     }else if(xDistance > yDistance){
