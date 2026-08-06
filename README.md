@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3668-restore-finishing-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -69,4 +71,12 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3516-find-closest-person](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3945-digit-frequency-score](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3945-digit-frequency-score) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
