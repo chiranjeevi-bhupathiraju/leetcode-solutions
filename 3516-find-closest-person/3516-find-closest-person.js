@@ -1,0 +1,22 @@
+/**
+ * @param {number} x
+ * @param {number} y
+ * @param {number} z
+ * @return {number}
+ */
+var findClosest = function(x, y, z) {
+    let xDistance = Math.abs(x-z)
+    let yDistance = Math.abs(y-z)
+
+    if(xDistance === yDistance){
+        return 0
+    }
+
+     if(xDistance < yDistance){
+        return 1
+    }
+
+     if(xDistance > yDistance){
+        return 2
+    }
+};
