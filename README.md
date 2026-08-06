@@ -24,6 +24,7 @@
 | [0125-valid-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -43,6 +44,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## String Matching
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
