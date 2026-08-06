@@ -14,9 +14,9 @@ var findClosest = function(x, y, z) {
 
      if(xDistance < yDistance){
         return 1
-    }
-
-     if(xDistance > yDistance){
+    }else if(xDistance > yDistance){
         return 2
+    }else {
+        return 0
     }
 };
