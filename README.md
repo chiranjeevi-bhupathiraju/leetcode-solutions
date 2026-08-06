@@ -22,6 +22,7 @@
 | [1108-defanging-an-ip-address](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
