@@ -23,6 +23,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0520-detect-capital](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
