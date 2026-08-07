@@ -9,7 +9,5 @@ var detectCapitalUse = function(word) {
     return true
    }
 
-   console.log()
-
    return false
 };
