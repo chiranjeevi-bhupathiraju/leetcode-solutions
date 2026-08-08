@@ -14,10 +14,12 @@ var findEvenNumbers = function(digits) {
         for(k=0;k<digits.length;k++){
             let dk = digits[k]
               if(j === k || k === i || dk % 2 !== 0) continue
-              if(!res.includes(+`${di}${dj}${dk}`)){
-           res.push(+`${di}${dj}${dk}`)
+            let num = 100 * di + 10 * dj + 1 * dk
 
-              }
+            if(res.indexOf(num) === -1){
+                res.push(num)
+
+            }
               
     }
     }
