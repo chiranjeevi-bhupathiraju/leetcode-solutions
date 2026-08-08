@@ -17,6 +17,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -57,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
@@ -93,6 +95,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -112,4 +115,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
