@@ -35,6 +35,7 @@
 | [0520-detect-capital](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -93,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
