@@ -41,6 +41,7 @@
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3856-trim-trailing-vowels](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
 |  |
