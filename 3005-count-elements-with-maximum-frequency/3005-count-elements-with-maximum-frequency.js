@@ -11,8 +11,6 @@ var maxFrequencyElements = function(nums) {
         maxF = Math.max(maxF,freq[nums[i]])
     }
 
-    console.log(freq,maxF)
-
     let s= 0
     for(let e in freq){
         if(freq[e] == maxF){
