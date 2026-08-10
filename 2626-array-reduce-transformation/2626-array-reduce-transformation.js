@@ -5,12 +5,12 @@
  * @return {number}
  */
 var reduce = function(nums, fn, init) {
-    let res = init
+    let val = init
 
     
-    for(i=0;i<nums.length;i++){
-       res = fn(res,nums[i])
+    for(let i=0;i<nums.length;i++){
+       val = fn(val,nums[i])
        
     }
-    return res
+    return val
 };
