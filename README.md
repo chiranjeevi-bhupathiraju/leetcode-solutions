@@ -47,6 +47,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -64,6 +65,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2325-decode-the-message](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
