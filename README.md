@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1816-truncate-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -151,6 +152,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sliding Window
 |  |
