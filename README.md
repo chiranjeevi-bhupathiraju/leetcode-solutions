@@ -15,6 +15,7 @@
 | [1534-count-good-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1816-truncate-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -60,6 +61,7 @@
 | [0041-first-missing-positive](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -128,6 +130,7 @@
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
