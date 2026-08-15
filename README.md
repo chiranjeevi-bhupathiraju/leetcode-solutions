@@ -21,6 +21,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -114,6 +115,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3516-find-closest-person](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3945-digit-frequency-score](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3945-digit-frequency-score) |
