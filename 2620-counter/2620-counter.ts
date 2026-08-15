@@ -1,6 +1,6 @@
 function createCounter(n: number): () => number {
     
-    return function():number {
+    return function() {
         return n++
     }
 }
