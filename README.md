@@ -45,6 +45,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -59,6 +60,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3146-permutation-difference-between-two-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3668-restore-finishing-order) |
