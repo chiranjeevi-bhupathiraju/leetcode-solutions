@@ -21,6 +21,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1732-find-the-highest-altitude](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@
 | [0709-to-lower-case](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1773-count-items-matching-a-rule](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
