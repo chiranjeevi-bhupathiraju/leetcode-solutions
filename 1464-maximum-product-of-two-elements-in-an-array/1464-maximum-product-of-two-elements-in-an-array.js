@@ -7,5 +7,8 @@ var maxProduct = function(nums) {
 
     nums.sort((a,b)=>b-a)
 
-    return (nums[0]-1) * (nums[1]-1)
+    let fe = nums[0]-1
+    let se = nums[1]-1
+
+    return fe*se
 };
