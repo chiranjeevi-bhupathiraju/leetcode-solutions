@@ -46,6 +46,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3668-restore-finishing-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -74,6 +75,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
@@ -138,6 +140,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
