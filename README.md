@@ -76,6 +76,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2315-count-asterisks](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
