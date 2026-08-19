@@ -33,6 +33,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
