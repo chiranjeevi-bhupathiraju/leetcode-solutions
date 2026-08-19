@@ -170,6 +170,7 @@
 | [2469-convert-the-temperature](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2843-count-symmetric-integers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -229,6 +230,7 @@
 | ------- |
 | [1534-count-good-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2843-count-symmetric-integers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 ## Sliding Window
 |  |
 | ------- |
