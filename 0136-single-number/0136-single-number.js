@@ -2,7 +2,16 @@
  * @param {number[]} nums
  * @return {number}
  */
-var singleNumber = function(nums) {
+
+ var singleNumber = function(nums) {
+    let ans = 0
+
+    for(let e of nums){
+        ans ^= e
+    }
+  return ans
+ }
+var singleNumber222 = function(nums) {
     let f = {}
     const n = nums.length
 
