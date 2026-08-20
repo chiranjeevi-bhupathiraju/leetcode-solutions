@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1313-decompress-run-length-encoded-list](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -249,6 +250,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Matrix
