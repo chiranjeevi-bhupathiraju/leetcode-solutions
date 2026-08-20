@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1313-decompress-run-length-encoded-list](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -190,6 +192,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -203,6 +206,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -270,4 +274,12 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
