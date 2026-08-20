@@ -25,6 +25,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1732-find-the-highest-altitude](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -111,6 +112,7 @@
 | [0389-find-the-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -220,6 +222,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
