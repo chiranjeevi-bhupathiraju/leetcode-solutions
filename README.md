@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1313-decompress-run-length-encoded-list](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -72,6 +73,7 @@
 | [0520-detect-capital](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1108-defanging-an-ip-address](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -113,6 +115,7 @@
 | [0242-valid-anagram](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
