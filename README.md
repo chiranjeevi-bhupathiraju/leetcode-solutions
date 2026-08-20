@@ -55,6 +55,7 @@
 | [3668-restore-finishing-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -121,6 +122,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -222,6 +224,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Stack
 |  |
 | ------- |
