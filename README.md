@@ -60,6 +60,7 @@
 | [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## String
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
