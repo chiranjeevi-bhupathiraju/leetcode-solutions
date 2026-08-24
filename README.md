@@ -58,6 +58,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3668-restore-finishing-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -210,6 +211,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3516-find-closest-person) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3894-traffic-signal-color](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Sorting
