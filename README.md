@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [1051-height-checker](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1313-decompress-run-length-encoded-list](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -225,6 +226,7 @@
 | [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1051-height-checker](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -240,6 +242,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1051-height-checker](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1051-height-checker) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -305,6 +308,7 @@
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## Monotonic Stack
 |  |
