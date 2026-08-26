@@ -215,6 +215,7 @@
 | [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
@@ -242,6 +243,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3894-traffic-signal-color](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Sorting
 |  |
 | ------- |
