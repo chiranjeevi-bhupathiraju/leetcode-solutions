@@ -3,17 +3,9 @@
  * @return {number}
  */
 var findCenter = function (edges) {
-    let a = edges.flat()
-
-    let f = {}
-
-    for (let el of a) {
-        f[el] = (f[el] || 0) + 1
+    if (edges[0][0] == edges[1][0] || edges[0][0] == edges[1][1]) {
+        return edges[0][0]
     }
 
-    for (let ch in f) {
-        if (f[ch] > 1) {
-            return +ch
-        }
-    }
+    return edges[0][1]
 };
