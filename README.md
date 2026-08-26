@@ -343,4 +343,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
