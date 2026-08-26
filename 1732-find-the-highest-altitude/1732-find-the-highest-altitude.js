@@ -3,11 +3,13 @@
  * @return {number}
  */
 var largestAltitude = function(gain) {
-    let maxV = 0
-    let s = 0
-    for(i=0;i<gain.length;i++){
-         s +=  gain[i]
-        maxV = Math.max(maxV,s)
+    let x = 0
+    let max = 0
+
+    for(let i=0;i<gain.length;i++){
+          x += gain[i]
+          max = Math.max(max,x)
     }
-    return maxV
+
+    return max
 };
