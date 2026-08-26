@@ -226,6 +226,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
