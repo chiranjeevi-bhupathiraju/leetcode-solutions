@@ -69,6 +69,7 @@
 | [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## String
 |  |
@@ -263,6 +264,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Stack
 |  |
 | ------- |
