@@ -2,20 +2,19 @@
  * @param {number} n
  * @return {number}
  */
-var digitFrequencyScore = function(n) {
-    let freq = {}
-    let str = n.toString();
+var digitFrequencyScore = function (n) {
+    let s = 0
+    let a = String(n).split('')
 
-    for(i=0;i<str.length;i++){
+    let f = {}
 
-        freq[str[i]] = (freq[str[i]] || 0)+1
+    for (let el of a) {
+        f[el] = (f[el] || 0) + 1
     }
 
-    let score = 0
-
-    for(const [key, value] of Object.entries(freq)){
-          score += Number(key) * value
+    for (let el in f) {
+        s += (+f[el]) * el
     }
 
-  return score
+    return s
 };
