@@ -13,15 +13,17 @@
  */
 
 function postorderTraversal(root: TreeNode | null): number[] {
-
     function dfs(n, a) {
         if (!n) return
 
         dfs(n.left, a)
         dfs(n.right, a)
         a.push(n.val)
+
     }
+
     let res = []
+
     dfs(root, res)
 
     return res
