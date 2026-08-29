@@ -379,6 +379,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -388,6 +389,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
