@@ -10,6 +10,5 @@ function reverseDigits(n) {
         rev = rev * 10 + lastDigit
         n = Math.trunc(n / 10)
     }
-
     return rev
 }
