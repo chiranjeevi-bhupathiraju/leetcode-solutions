@@ -220,6 +220,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -313,6 +314,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -418,4 +420,12 @@
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
