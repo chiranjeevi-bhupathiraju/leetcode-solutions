@@ -3,32 +3,30 @@
  * @return {number[]}
  */
 var findErrorNums = function (nums) {
-    let set = new Set(nums)
+    let map = new Map()
     let a = nums.length
-    let res = []
-
 
     let f = {}
     for (let el of nums) {
-        f[el] = (f[el] || 0) + 1
-    }
-
-    for (let el in f) {
-        if (f[el] == 2) {
-            res.push(+el)
-        }
+        map.set(el, (map.get(el) ?? 0) + 1)
     }
 
 
 
     i = 1
+    let dup = null
+    let miss = null
 
     while (i <= a) {
-        if (!set.has(i)) {
-            res.push(i)
+        if (map.has(i)) {
+            if (map.get(i) > 1) {
+                dup = i
+            }
+        } else {
+            miss = i
         }
         i++
     }
 
-    return res
+    return [dup, miss]
 };
