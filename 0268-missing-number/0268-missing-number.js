@@ -3,13 +3,13 @@
  * @return {number}
  */
 var missingNumber = function (nums) {
-    nums.sort((a, b) => a - b)
+    let set = new Set(nums)
     let a = nums.length
 
     i = 0
 
     while (i <= a) {
-        if (!nums.includes(i)) {
+        if (!set.has(i)) {
             return i
         }
         i++
