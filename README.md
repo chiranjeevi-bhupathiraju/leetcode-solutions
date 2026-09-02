@@ -31,6 +31,7 @@
 | [1534-count-good-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1672-richest-customer-wealth](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -359,6 +360,7 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
