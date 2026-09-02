@@ -70,6 +70,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3467-transform-array-by-parity](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -279,6 +280,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3467-transform-array-by-parity](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3978-unique-middle-element) |
