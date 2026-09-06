@@ -30,6 +30,7 @@
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -342,6 +343,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
+| [1539-kth-missing-positive-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
