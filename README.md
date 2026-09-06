@@ -103,6 +103,7 @@
 | [0709-to-lower-case](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -321,6 +322,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3174-clear-digits) |
