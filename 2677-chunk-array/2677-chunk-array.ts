@@ -1,12 +1,12 @@
 type JSONValue = null | boolean | number | string | JSONValue[] | { [key: string]: JSONValue };
 type Obj = Record<string, JSONValue> | Array<JSONValue>;
 
-function chunk(arr: Obj[], size: number): Obj[][] {
+function chunk(a: Obj[], chunkSize: number): Obj[][] {
     let res = []
 
-    for(let i=0; i< arr.length; i+=size){
-        let ch = arr.slice(i,i+size)
-        res.push(ch)
+    for (let i = 0; i < a.length; i += chunkSize) {
+        let sa = a.slice(i, i + chunkSize)
+        res.push(sa)
     }
 
     return res
