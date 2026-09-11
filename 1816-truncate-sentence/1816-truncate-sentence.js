@@ -3,6 +3,6 @@
  * @param {number} k
  * @return {string}
  */
-var truncateSentence = function(s, k) {
-    return s.split(' ').slice(0,k).join(' ')
+var truncateSentence = function (s, k) {
+    return s.split(' ').slice(0, k).join(' ')
 };
