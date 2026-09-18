@@ -1,12 +1,15 @@
-function countOperations(num1: number, num2: number): number {
-    let i= 0
-    while(num1 !== 0 && num2 !==0){
-        if(num1>=num2){
-            num1 = num1-num2
-        }else{
-            num2 = num2 - num1
+function countOperations(a: number, b: number): number {
+    let ct = 0
+
+    while (a && b) {
+        if (a >= b) {
+            a = a - b
+        } else {
+            b = b - a
         }
-        i++
+
+        ct++
     }
-    return i
+
+    return ct
 };
