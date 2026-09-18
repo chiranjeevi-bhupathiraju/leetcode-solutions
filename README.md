@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -473,6 +474,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
