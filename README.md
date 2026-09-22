@@ -102,6 +102,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0709-to-lower-case) |
@@ -225,6 +226,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -252,6 +254,7 @@
 | [0007-reverse-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1323-maximum-69-number) |
