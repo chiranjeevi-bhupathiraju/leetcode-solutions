@@ -251,6 +251,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1323-maximum-69-number) |
@@ -361,6 +362,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -379,6 +381,7 @@
 | ------- |
 | [0136-single-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
