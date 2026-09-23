@@ -2,6 +2,6 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var concatWithReverse = function(nums) {
-    return [...nums,...nums.reverse()]
+var concatWithReverse = function (nums) {
+    return [...nums, ...nums.reverse()]
 };
