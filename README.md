@@ -101,6 +101,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -196,6 +197,7 @@
 | [0125-valid-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -481,6 +483,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
