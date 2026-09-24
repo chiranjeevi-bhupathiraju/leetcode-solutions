@@ -3,24 +3,24 @@
  * @return {number}
  */
 
- var singleNumber = function(nums) {
+var singleNumber = function (nums) {
     let ans = 0
 
-    for(let e of nums){
+    for (let e of nums) {
         ans ^= e
     }
-  return ans
- }
-var singleNumber222 = function(nums) {
+    return ans
+}
+var singleNumber222 = function (nums) {
     let f = {}
     const n = nums.length
 
-    for(let e of nums){
-        f[e] =( f[e] ?? 0)+1
+    for (let e of nums) {
+        f[e] = (f[e] ?? 0) + 1
     }
 
-    for(let e in f){
-        if(f[e] === 1){
+    for (let e in f) {
+        if (f[e] === 1) {
             return +e
         }
     }
