@@ -255,6 +255,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -367,6 +368,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
