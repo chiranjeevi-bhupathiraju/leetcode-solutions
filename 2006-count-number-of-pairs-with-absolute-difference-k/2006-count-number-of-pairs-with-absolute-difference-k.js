@@ -3,15 +3,15 @@
  * @param {number} k
  * @return {number}
  */
-var countKDifference = function(nums, k) {
-const n = nums.length
-let ct = 0
-for(let i=0;i<n;i++){
-   for(let j=i+1;j<n;j++){
-   if(Math.abs(nums[i] - nums[j]) == k){
-    ct++
-   }
-}
-}
-return ct
+var countKDifference = function (nums, k) {
+    const n = nums.length
+    let ct = 0
+    for (let i = 0; i < n; i++) {
+        for (let j = i + 1; j < n; j++) {
+            if (Math.abs(nums[i] - nums[j]) == k) {
+                ct++
+            }
+        }
+    }
+    return ct
 };
