@@ -2,16 +2,15 @@
  * @param {number[]} nums
  * @return {number}
  */
-var minimumAverage = function (nums) {
-    nums.sort((a, b) => a - b)
+var minimumAverage = function (a) {
+    let sorted = a.sort((a, b) => a - b)
+    let avgs = []
+    for (let i = 0; i < a.length / 2; i++) {
+        let minE = sorted[i]
+        let maxE = sorted[a.length - 1 - i]
 
-    let minAvg = Infinity
-
-    let i = 1
-    while (i <= nums.length / 2) {
-        let sum = (nums.shift() + nums.pop()) / 2
-        minAvg = Math.min(minAvg, sum)
-
+        avgs.push((minE + maxE) / 2)
     }
-    return minAvg
+
+    return Math.min(...avgs)
 };
