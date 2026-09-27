@@ -3,11 +3,11 @@
  * @param {number[]} friends
  * @return {number[]}
  */
-var recoverOrder = function(order, friends) {
+var recoverOrder = function (order, friends) {
     let result = []
-    for(i=0;i<order.length;i++){
-        if(friends.includes(order[i])){
-             result.push(order[i])
+    for (i = 0; i < order.length; i++) {
+        if (friends.includes(order[i])) {
+            result.push(order[i])
         }
     }
 
