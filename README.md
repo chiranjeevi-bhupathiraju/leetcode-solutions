@@ -270,6 +270,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
@@ -499,4 +500,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
