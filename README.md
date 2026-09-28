@@ -73,6 +73,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -184,6 +185,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -401,6 +403,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
 |  |
 | ------- |
