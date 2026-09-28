@@ -256,6 +256,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -367,6 +368,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -505,4 +507,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
