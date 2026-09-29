@@ -2,13 +2,13 @@
  * @param {number[]} heights
  * @return {number}
  */
-var heightChecker = function(heights) {
-    let h = heights.toSorted((a,b)=>a-b)
+var heightChecker = function (heights) {
+    let h = heights.toSorted((a, b) => a - b)
     let ct = 0
 
-    for(let i=0; i<heights.length; i++){
-        if(heights[i] != h[i]){
-          ct++
+    for (let i = 0; i < heights.length; i++) {
+        if (heights[i] != h[i]) {
+            ct++
         }
     }
 
