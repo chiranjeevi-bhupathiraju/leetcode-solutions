@@ -234,6 +234,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1603-design-parking-system](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -329,6 +330,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -514,4 +516,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0069-sqrtx) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
