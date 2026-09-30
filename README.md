@@ -463,6 +463,7 @@
 | [0938-range-sum-of-bst](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2236-root-equals-sum-of-children](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -493,6 +494,7 @@
 | [0938-range-sum-of-bst](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2236-root-equals-sum-of-children](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
