@@ -282,6 +282,7 @@
 | [2235-add-two-integers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2652-sum-multiples) |
@@ -373,6 +374,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3028-ant-on-the-boundary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
