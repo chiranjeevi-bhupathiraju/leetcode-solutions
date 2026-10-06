@@ -1,12 +1,12 @@
-function findWordsContaining(words: string[], x: string): number[] {
+function findWordsContaining(w: string[], x: string): number[] {
+    let i = 0
     let res = []
-    const n = words.length
-
-    for (let i = 0; i < n; i++) {
-        if (words[i].includes(x)) {
+    while (i < w.length) {
+        if (w[i].includes(x)) {
             res.push(i)
         }
-    }
+        i++
 
+    }
     return res
 };
