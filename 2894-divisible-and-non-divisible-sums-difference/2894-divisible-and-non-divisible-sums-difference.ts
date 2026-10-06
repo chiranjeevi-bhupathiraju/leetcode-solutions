@@ -1,13 +1,16 @@
 function differenceOfSums(n: number, m: number): number {
-    let s1 = 0
-    let s2 = 0
-    for (let i = 1; i <= n; i++) {
+    let sum1 = 0
+    let sum2 = 0
+
+    let i = 1
+    while (i <= n) {
         if (i % m == 0) {
-            s1 += i
+            sum1 += i
         } else {
-            s2 += i
+            sum2 += i
         }
+        i++
     }
 
-    return s2 - s1
+    return sum2 - sum1
 };
