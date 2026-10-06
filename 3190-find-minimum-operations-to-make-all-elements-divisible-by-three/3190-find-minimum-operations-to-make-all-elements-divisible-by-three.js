@@ -2,14 +2,14 @@
  * @param {number[]} nums
  * @return {number}
  */
-var minimumOperations = function (nums) {
-    let op = 0
+var minimumOperations = function (n) {
+    let o = 0
 
-    for (let el of nums) {
-        if ((el + 1) % 3 == 0 || (el - 1) % 3 == 0) {
-            op++
+    for (let a of n) {
+        if ((a - 1) % 3 == 0 || (a + 1) % 3 == 0) {
+            o++
         }
     }
 
-    return op
+    return o
 };
