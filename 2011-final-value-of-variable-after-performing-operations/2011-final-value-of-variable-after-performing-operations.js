@@ -2,16 +2,15 @@
  * @param {string[]} operations
  * @return {number}
  */
-var finalValueAfterOperations = function (operations) {
-    let X = 0
-
-    for (i = 0; i < operations.length; i++) {
-        if (operations[i].includes('++')) {
-            X++
+var finalValueAfterOperations = function (o) {
+    let x = 0
+    for (let e of o) {
+        if (e.includes('++')) {
+            x += 1
         } else {
-            X--
+            x -= 1
         }
     }
-    return X
 
+    return x
 };
