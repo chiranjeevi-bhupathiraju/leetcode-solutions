@@ -2,13 +2,13 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var smallerNumbersThanCurrent = function(nums) {
+var smallerNumbersThanCurrent = function (nums) {
     let result = []
-    for (i=0;i<nums.length;i++){
-        let k=0
-        for (j=0;j<nums.length;j++){
-            if(i !== j && nums[i]>nums[j]){
-                 k++
+    for (i = 0; i < nums.length; i++) {
+        let k = 0
+        for (j = 0; j < nums.length; j++) {
+            if (i !== j && nums[i] > nums[j]) {
+                k++
             }
         }
         result.push(k)
