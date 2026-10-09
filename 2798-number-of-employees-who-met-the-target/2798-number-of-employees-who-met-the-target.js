@@ -3,8 +3,8 @@
  * @param {number} target
  * @return {number}
  */
-var numberOfEmployeesWhoMetTarget = function(hours, target) {
-    return hours.filter(hrs=>hrs >= target).length
+var numberOfEmployeesWhoMetTarget = function (hours, target) {
+    return hours.filter(hrs => hrs >= target).length
 
-    
+
 };
