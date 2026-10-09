@@ -3,7 +3,7 @@
  * @param {character} ch
  * @return {string}
  */
-var reversePrefix = function(word, ch) {
+var reversePrefix = function (word, ch) {
     let index = word.indexOf(ch)
-    return word.slice(0,index+1).split('').reverse().join('').concat(word.slice(index+1))
+    return word.slice(0, index + 1).split('').reverse().join('').concat(word.slice(index + 1))
 };
