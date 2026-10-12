@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1051-height-checker](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1051-height-checker) |
