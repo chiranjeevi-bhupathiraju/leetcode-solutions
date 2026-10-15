@@ -157,6 +157,7 @@
 | [3174-clear-digits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3340-check-balanced-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -269,6 +270,7 @@
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -313,6 +315,7 @@
 | [3280-convert-date-to-binary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -550,6 +553,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Newton's Method
 |  |
 | ------- |
@@ -570,4 +574,8 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
