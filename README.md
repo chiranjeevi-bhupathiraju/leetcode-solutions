@@ -165,6 +165,7 @@
 | [3856-trim-trailing-vowels](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String Matching
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Counting Sort
 |  |
 | ------- |
