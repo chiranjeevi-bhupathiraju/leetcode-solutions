@@ -2,12 +2,15 @@
  * @param {number[][]} tasks
  * @return {number}
  */
-var earliestTime = function(tasks) {
-    let minV = Infinity
-
-    for(let [x,y] of tasks){
-        minV = Math.min(minV,x+y)
+var earliestTime = function (t) {
+    let res = []
+    for (let e of t) {
+        let sum = 0
+        for (let a of e) {
+            sum += a
+        }
+        res.push(sum)
     }
 
-    return minV
+    return Math.min(...res)
 };
