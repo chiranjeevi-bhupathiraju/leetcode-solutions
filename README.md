@@ -96,6 +96,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4020-elevator-requests-i) |
@@ -446,6 +447,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -481,6 +483,7 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Tree
 |  |
 | ------- |
