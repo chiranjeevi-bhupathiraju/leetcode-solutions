@@ -2,13 +2,14 @@
  * @param {number[]} nums
  * @return {number}
  */
-var maxProduct = function(nums) {
-    let n = nums.length
+var maxProduct = function (n) {
+    let val = []
+    for (let i = 0; i < n.length; i++) {
+        for (let j = i + 1; j < n.length; j++) {
+            let cal = (n[i] - 1) * (n[j] - 1)
+            val.push(cal)
+        }
+    }
 
-    nums.sort((a,b)=>b-a)
-
-    let fe = nums[0]-1
-    let se = nums[1]-1
-
-    return fe*se
+    return Math.max(...val)
 };
