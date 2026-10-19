@@ -2,15 +2,16 @@
  * @param {number[][]} matrix
  * @return {number[]}
  */
-var findDegrees = function (matrix) {
+var findDegrees = function (m) {
     let res = []
-    let m = matrix[0].length
-    for (i = 0; i < matrix.length; i++) {
-        let s = 0
-        for (j = 0; j < m; j++) {
-            s += matrix[i][j]
+
+    for (let e of m) {
+        let sum = 0
+        for (let a of e) {
+            sum += a
         }
-        res.push(s)
+        res.push(sum)
     }
+
     return res
 };
