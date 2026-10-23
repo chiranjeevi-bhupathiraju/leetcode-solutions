@@ -3,13 +3,15 @@
  * @return {boolean}
  */
 var isBalanced = function (num) {
-    const evenSum = num.split('').reduce((a, c, i) => {
-        return i % 2 === 0 ? a + Number(c) : a;
-    }, 0);
+    let es = 0
+    let os = 0
+    for (let i = 0; i < num.length; i++) {
+        if (i % 2 == 0) {
+            es += Number(num[i])
+        } else {
+            os += Number(num[i])
+        }
+    }
 
-    const oddSum = num.split('').reduce((a, c, i) => {
-        return i % 2 !== 0 ? a + Number(c) : a;
-    }, 0);
-
-    return evenSum === oddSum;
+    return es == os
 };
