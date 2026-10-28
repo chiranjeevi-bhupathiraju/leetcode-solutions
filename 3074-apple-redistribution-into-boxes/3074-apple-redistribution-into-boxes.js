@@ -3,17 +3,16 @@
  * @param {number[]} capacity
  * @return {number}
  */
-var minimumBoxes = function(apple, capacity) {
-    let totalApples = apple.reduce((a,c)=>a+c,0)
-    capacity.sort((a,b)=>b-a)
+var minimumBoxes = function (apple, capacity) {
+    let appleSum = apple.reduce((a, c) => a + c)
 
-    let i = 0
+    capacity.sort((a, b) => b - a)
 
-    while(totalApples > 0){
-       totalApples -= capacity[i]
-       i++
+    for (let i = 0; i < capacity.length; i++) {
+        appleSum -= capacity[i]
+        if (appleSum <= 0) {
+            return i + 1
+        }
     }
-
-    return i
 
 };
