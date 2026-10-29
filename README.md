@@ -17,6 +17,7 @@
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
@@ -345,6 +346,7 @@
 | [0242-valid-anagram](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
