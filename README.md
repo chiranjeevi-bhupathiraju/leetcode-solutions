@@ -171,6 +171,7 @@
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
+| [3884-first-matching-character-from-both-ends](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -240,6 +241,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String Matching
 |  |
