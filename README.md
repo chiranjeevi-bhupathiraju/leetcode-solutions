@@ -61,6 +61,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -203,6 +204,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2103-rings-and-rods](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2103-rings-and-rods) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2418-sort-the-people) |
