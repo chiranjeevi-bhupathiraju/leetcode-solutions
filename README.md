@@ -144,6 +144,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -201,6 +202,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -388,6 +390,7 @@
 | [1603-design-parking-system](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
