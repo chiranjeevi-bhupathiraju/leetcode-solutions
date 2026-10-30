@@ -173,6 +173,7 @@
 | [3856-trim-trailing-vowels](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Hash Table
 |  |
@@ -340,6 +341,7 @@
 | [3894-traffic-signal-color](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3959-check-good-integer) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sorting
 |  |
 | ------- |
