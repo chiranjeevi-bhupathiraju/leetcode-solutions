@@ -308,6 +308,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
