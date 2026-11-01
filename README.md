@@ -347,6 +347,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -385,6 +386,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Counting Sort
 |  |
