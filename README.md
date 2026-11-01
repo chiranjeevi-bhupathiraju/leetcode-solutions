@@ -77,6 +77,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -443,6 +444,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
