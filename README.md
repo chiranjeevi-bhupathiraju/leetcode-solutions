@@ -163,6 +163,7 @@
 | [2325-decode-the-message](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -250,6 +251,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -438,6 +440,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
