@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1051-height-checker](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1051-height-checker) |
@@ -203,6 +204,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0575-distribute-candies](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
