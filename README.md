@@ -114,6 +114,7 @@
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4020-elevator-requests-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3945-digit-frequency-score) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4020-elevator-requests-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -405,6 +408,7 @@
 | [3467-transform-array-by-parity](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting Sort
 |  |
 | ------- |
@@ -427,6 +431,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3978-unique-middle-element) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
 | ------- |
@@ -517,6 +522,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -667,4 +673,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
