@@ -80,6 +80,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -229,6 +230,7 @@
 | [2418-sort-the-people](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -495,6 +497,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -507,6 +510,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Matrix
@@ -548,6 +552,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Graph Theory
 |  |
 | ------- |
