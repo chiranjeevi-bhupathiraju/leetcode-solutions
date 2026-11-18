@@ -382,6 +382,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3270-find-the-key-of-the-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3280-convert-date-to-binary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
