@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0929-unique-email-addresses](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0929-unique-email-addresses) |
@@ -216,6 +217,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -459,6 +461,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -555,6 +558,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
