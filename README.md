@@ -367,6 +367,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
@@ -498,6 +499,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
 | ------- |
