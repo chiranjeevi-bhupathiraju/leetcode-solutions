@@ -294,6 +294,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1603-design-parking-system](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -339,6 +340,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
