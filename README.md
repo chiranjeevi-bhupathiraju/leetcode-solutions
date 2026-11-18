@@ -171,6 +171,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2315-count-asterisks](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -310,6 +311,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
