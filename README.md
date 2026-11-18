@@ -117,6 +117,7 @@
 | [3898-find-the-degree-of-each-vertex](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -274,6 +275,7 @@
 | [3794-reverse-string-prefix](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String Matching
 |  |
