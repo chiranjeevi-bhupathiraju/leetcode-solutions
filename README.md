@@ -72,6 +72,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2678-number-of-senior-citizens](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -268,6 +269,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -310,6 +312,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
