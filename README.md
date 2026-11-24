@@ -27,6 +27,7 @@
 | [1051-height-checker](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -353,6 +354,7 @@
 | [0367-valid-perfect-square](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1323-maximum-69-number) |
@@ -478,6 +480,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
