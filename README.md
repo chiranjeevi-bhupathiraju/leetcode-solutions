@@ -92,6 +92,7 @@
 | [2974-minimum-number-game](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3024-type-of-triangle](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -378,6 +379,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3024-type-of-triangle](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -428,6 +430,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -710,4 +713,8 @@
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
