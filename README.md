@@ -124,6 +124,7 @@
 | [3861-minimum-capacity-box](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3921-score-validator](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -510,6 +511,7 @@
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
