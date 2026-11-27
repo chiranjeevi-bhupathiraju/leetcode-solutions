@@ -211,6 +211,7 @@
 | [3931-check-adjacent-digit-differences](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -538,12 +539,14 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
