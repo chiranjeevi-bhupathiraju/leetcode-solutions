@@ -60,6 +60,7 @@
 | [1929-concatenation-of-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -430,6 +431,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1859-sorting-the-sentence](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -538,6 +540,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/chiranjeevi-bhupathiraju/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
 |  |
